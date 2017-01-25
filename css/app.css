@@ -1,0 +1,129 @@
+
+
+.mainslide {
+    overflow: hidden;
+}
+
+.mainslide .uk-slideshow li {
+    height: 600px !important
+}
+
+.uk-dotnav {
+    margin-top: -43px !important
+}
+
+.mainslide .uk-dotnav a {
+    width: 36px;
+    height: 3px;
+    border-radius: 0;
+    background: rgba(255,255,255,.5);
+    border: none;
+}
+
+.mainslide .uk-dotnav a {
+    transform: scale(1.3)
+}
+
+.mainslide .uk-dotnav .uk-active a {
+    background: rgba(0,0,0,.8)
+}
+
+.main {
+    padding-top: 40px
+}
+
+.main .blog-item {
+    border-bottom: 1px solid #f2f2f2;
+    padding: 27px 0
+}
+
+.main .blog-item-content {
+    padding-left: 23px;
+    font-family: "San Francisco Text";
+    font-weight: 100 !important
+}
+
+@media only screen and (max-width: 735px) {
+    .main .blog-item-content {
+        margin-top: 19px;
+        padding-left: 0;
+    }
+}
+
+.main .blog-item-content .header h3 {
+    font-size: 22px;
+    font-weight: 200;
+    margin: 0;
+    font-family: "San Francisco Text"
+}
+
+.main .blog-item-content .header small {
+    font-size: 15px;
+    font-weight: 300;
+    margin: 10px 0;
+    display: block;
+    color: #858585;
+    font-family: "San Francisco Display"
+}
+
+.main .blog-item-content .content-desc p {
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 4px
+}
+
+.main .blog-item-content .content-desc a {
+    font-size: 16px;
+    font-weight: 100
+}
+
+#globalfooter {
+    line-height: 1.66667;
+    font-weight: 100;
+    padding-top: 30px;
+    margin-top: 40px !important;
+    letter-spacing: normal;
+    background-color: #f2f2f2;
+    color: #666;
+    min-width: 1024px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1
+}
+
+#globalfooter h3 {
+    font-weight: 500;
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+#globalfooter ul {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+#globalfooter, #globalfooter small, #globalfooter p {
+    font-size: 12px;
+    margin: 0;
+    font-weight: 100
+}
+
+#globalfooter .gf-content-right {
+    padding-left: 30px
+}
+
+#globalfooter .gf-footer {
+    border-top: 1px solid #e3e3e3;
+    margin-top: 20px;
+    padding-bottom: 20px
+}
+
+#globalfooter .gf-footer .gf-footer-left {
+    float: left;
+}
+
+#globalfooter .gf-footer .gf-footer-right {
+    float: right;
+}
+

@@ -1,0 +1,215 @@
+/* SF Display */
+
+@font-face {
+    font-family: 'SF Display';
+    font-style: normal;
+    font-weight: 900;
+    src: local('☺︎'), url("../fonts/SFDisplay-Black.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF Display';
+    font-style: normal;
+    font-weight: 800;
+    src: local('☺︎'), url("../fonts/SFDisplay-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF Display';
+    font-style: normal;
+    font-weight: 700;
+    src: local('☺︎'), url("../fonts/SFDisplay-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF Display';
+    font-style: normal;
+    font-weight: 600;
+    src: local('☺︎'), url("../fonts/SFDisplay-Heavy.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF Display';
+    font-style: normal;
+    font-weight: 500;
+    src: local('☺︎'), url("../fonts/SFDisplay-Semibold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF Display';
+    font-style: normal;
+    font-weight: 400;
+    src: local('☺︎'), url("../fonts/SFDisplay-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF Display';
+    font-style: normal;
+    font-weight: 300;
+    src: local('☺︎'), url("../fonts/SFDisplay-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF Display';
+    font-style: normal;
+    font-weight: 200;
+    src: local('☺︎'), url("../fonts/SFDisplay-Thin.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF Display';
+    font-style: normal;
+    font-weight: 100;
+    src: local('☺︎'), url("../fonts/SFDisplay-Ultralight.otf") format("opentype");
+}
+
+/* San Francisco Display Display */
+
+@font-face {
+    font-family: 'San Francisco Display';
+    font-style: normal;
+    font-weight: 900;
+    src: local('☺︎'), url("../fonts/SFCompactDisplay-Black.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Display';
+    font-style: normal;
+    font-weight: 800;
+    src: local('☺︎'), url("../fonts/SFCompactDisplay-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Display';
+    font-style: normal;
+    font-weight: 700;
+    src: local('☺︎'), url("../fonts/SFCompactDisplay-Heavy.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Display';
+    font-style: normal;
+    font-weight: 600;
+    src: local('☺︎'), url("../fonts/SFCompactDisplay-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Display';
+    font-style: normal;
+    font-weight: 500;
+    src: local('☺︎'), url("../fonts/SFCompactDisplay-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Display';
+    font-style: normal;
+    font-weight: 400;
+    src: local('☺︎'), url("../fonts/SFCompactDisplay-Semibold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Display';
+    font-style: normal;
+    font-weight: 300;
+    src: local('☺︎'), url("../fonts/SFCompactDisplay-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Display';
+    font-style: normal;
+    font-weight: 200;
+    src: local('☺︎'), url("../fonts/SFCompactDisplay-Thin.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Display';
+    font-style: normal;
+    font-weight: 100;
+    src: local('☺︎'), url("../fonts/SFCompactDisplay-Ultralight.otf") format("opentype");
+}
+
+/* San Francisco Text */
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: normal;
+    font-weight: 600;
+    src: local('☺︎'), url("../fonts/SFCompactText-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: italic;
+    font-weight: 600;
+    src: local('☺︎'), url("../fonts/SFCompactText-BoldItalic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: normal;
+    font-weight: 500;
+    src: local('☺︎'), url("../fonts/SFCompactText-Heavy.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: italic;
+    font-weight: 500;
+    src: local('☺︎'), url("../fonts/SFCompactText-HeavyItalic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: normal;
+    font-weight: 400;
+    src: local('☺︎'), url("../fonts/SFCompactText-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: italic;
+    font-weight: 400;
+    src: local('☺︎'), url("../fonts/SFCompactText-MediumItalic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: normal;
+    font-weight: 300;
+    src: local('☺︎'), url("../fonts/SFCompactText-Semibold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: italic;
+    font-weight: 300;
+    src: local('☺︎'), url("../fonts/SFCompactText-SemiboldItalic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: normal;
+    font-weight: 200;
+    src: local('☺︎'), url("../fonts/SFCompactText-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: italic;
+    font-weight: 200;
+    src: local('☺︎'), url("../fonts/SFCompactText-RegularItalic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: normal;
+    font-weight: 100;
+    src: local('☺︎'), url("../fonts/SFCompactText-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'San Francisco Text';
+    font-style: italic;
+    font-weight: 100;
+    src: local('☺︎'), url("../fonts/SFCompactText-LightItalic.otf") format("opentype");
+}
